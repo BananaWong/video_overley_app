@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.manifest
+
+# Bundled ffmpeg binaries (download separately)
+ffmpeg/
+ffmpeg.exe
+ffprobe.exe
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
